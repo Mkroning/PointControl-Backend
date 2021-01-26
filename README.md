@@ -10,13 +10,13 @@
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/permissions_users
+    $ git clone https://github.com/Mkroning/PointControl-Backend
 
     // Acessar diretório
-    $ cd permissions_users
+    $ cd PointControl-Backend
 
     // Instalar dependências
-    $ yarn
+    $ yarn install
 
     // Iniciar projeto
     $ yarn start
